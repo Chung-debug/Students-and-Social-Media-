@@ -80,7 +80,7 @@ https://public.tableau.com/app/profile/favour.chung/viz/StudentsSocialMediaGloba
 
 ## 🧾 Attribution
 
-- Created by: Chung FavourS
+- Created by: *Chung Favour*
 
 ---
 
