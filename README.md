@@ -86,7 +86,7 @@ https://public.tableau.com/app/profile/favour.chung/viz/StudentsSocialMediaGloba
 
 ## 📬 Contact
 
-For questions or collaboration inquiries, reach out via [favourchung7@gmail.com](mailto:favourchung7@gmail.com)
+For questions or collaboration inquiries, reach out via [favourchung7@gmail.com](mailto:favourchung7@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/favour-chung/).
 
 ---
 
