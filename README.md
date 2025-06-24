@@ -65,7 +65,7 @@ This notebook complements the Tableau dashboard by providing transparency, repro
 ## 📌 Dashboard Preview
 
 ➡️ View the Dashboard on Tableau Public  
-https://public.tableau.com/app/profile/favour.chung/viz/StudentsSocialMediaGlobalBehavioralDashboard/Story7
+https://public.tableau.com/app/profile/favour.chung/viz/StudentsSocialMediaGlobalBehavioralDashboard/Dashboard1
 
 ---
 
